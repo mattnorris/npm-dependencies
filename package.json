@@ -1,0 +1,27 @@
+{
+  "name": "npm-dependencies",
+  "description": "Count NPM dependencies",
+  "author": "Matt Karl <matt.karl@jibo.com>",
+  "version": "0.1.0",
+  "bin": {
+    "npm-dependencies": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiborobot/npm-dependencies"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "minimist": "^1.2.0",
+    "request": "^2.72.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jiborobot/npm-dependencies/issues"
+  },
+  "homepage": "https://github.com/jiborobot/npm-dependencies",
+  "keywords": [
+    "npm",
+    "dependencies"
+  ],
+  "license": "MIT"
+}
